@@ -30,5 +30,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/ItsJamie9494/window-painter.git
-        tag: v1.0.0
-        commit: 6ccf8d22e435e22c8f4b95b131db1e7edaaf03cf
+        tag: v1.0.1
+        commit: 6efa554a198e557d221118f427ca65d744bba176
