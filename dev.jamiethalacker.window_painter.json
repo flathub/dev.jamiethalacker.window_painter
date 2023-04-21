@@ -3,6 +3,9 @@
     "runtime": "org.gnome.Platform",
     "runtime-version": "44",
     "sdk": "org.gnome.Sdk",
+    "sdk-extensions": [
+   	"org.freedesktop.Sdk.Extension.vala"
+    ],
     "command": "windowpainter",
     "finish-args": [
         "--share=network",
@@ -30,6 +33,7 @@
             "sources": [
                 {
                     "type": "archive",
+                    "archive-type": "tar",
                     "url": "https://api.github.com/repos/ItsJamie9494/window-painter/tarball/v1.2.0",
                     "sha256": "7f0daa68d2b14a8b5852ccdf153d3211d7d05670060162fa09f9233d9140040f",
                     "x-checker-data": {
