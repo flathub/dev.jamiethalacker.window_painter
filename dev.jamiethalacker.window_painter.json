@@ -40,6 +40,10 @@
                         "url-query": ".tarball_url",
                         "timestamp-query": ".published_at"
                     }
+                },
+                {
+                    "type": "patch",
+                    "path": "fix_appdata.patch"
                 }
              ]
         }
