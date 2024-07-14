@@ -31,8 +31,8 @@
                 {
                     "type": "archive",
                     "archive-type": "tar",
-                    "url": "https://api.github.com/repos/ItsJamie9494/window-painter/tarball/v1.2.0",
-                    "sha256": "7f0daa68d2b14a8b5852ccdf153d3211d7d05670060162fa09f9233d9140040f",
+                    "url": "https://api.github.com/repos/ItsJamie9494/window-painter/tarball/v1.3.0",
+                    "sha256": "f4939054fa7af0d8cb4d8fbf5f855832e5c293a3bab509c7980f6daab795ffcc",
                     "x-checker-data": {
                         "type": "json",
                         "url": "https://api.github.com/repos/ItsJamie9494/window-painter/releases/latest",
