@@ -1,7 +1,7 @@
 {
     "app-id": "dev.jamiethalacker.window_painter",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "49",
+    "runtime-version": "50",
     "sdk": "org.gnome.Sdk",
     "command": "windowpainter",
     "finish-args": [
@@ -28,7 +28,7 @@
                         "timestamp-query": ".published_at"
                     }
                 }
-             ]
+            ]
         }
     ]
 }
